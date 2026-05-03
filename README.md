@@ -32,6 +32,17 @@ This project is licensed under the GPL-3.0 license and MIT License.
 
 ---
 
+## 🛑 IMPORTANT: PLEASE READ
+By using this software, you agree to the following:
+
+NO LIABILITY: I am a developer sharing my work for free. In no event shall I (the author) be held liable for any damages, lawsuits, or "broken" computers / android phone resulting from the use of this tool.
+
+USE AT YOUR OWN RISK: This tool interacts with Windows 11 system settings / Android system settings. It is provided "AS IS" without any warranty. If your computer / android phone hangs, crashes, or loses data, that is your responsibility.
+
+NO GUARANTEE: I do not guarantee that these fixes will work for every computer / android phone or that they are 100% safe for your specific setup.
+
+IF YOU **DO NOT AGREE** TO THESE TERMS, **DO NOT USE THIS TOOL**.
+
 ## ⚠️ Disclaimer
 **Use this tool at your own risk.** Win11Fix is provided **"AS IS"** without any warranty of any kind. Modifying system settings can be risky. The author is not responsible for any:
 * System crashes or "hanging" laptops.
@@ -40,9 +51,6 @@ This project is licensed under the GPL-3.0 license and MIT License.
 
 **Recommendation:** Always create a **System Restore Point** before applying any fixes.
 
----
-
----
 
 ## ⚖️ Legal Notice
 THE SOFTWARE IS PROVIDED **"AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
