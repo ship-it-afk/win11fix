@@ -9,7 +9,9 @@ A fully open-source Graphical User Interface (GUI) web tool that guide you to fi
 * **Portable & Web-Based:** Run the guide directly in your browser without installing heavy software.
 
 ![Win11Fix](./w11.png)
+A screenshot of Win11Fix
 ![AndroidFix](./af.png)
+A screenshot of AndroidFix
 
 ## 🛠 Installation (For Windows 11 User)
 If you want to run Win11Fix & AndroidFix locally:
@@ -17,7 +19,7 @@ If you want to run Win11Fix & AndroidFix locally:
 2. Open `index.html` (Win11Fix) or `androidfix.html` (AndroidFix) in your browser (or run `npm install` if you have dependencies).
 
 ## 📖 How to Use
-1. Launch the Tool: Open the hosted link for Win11Fix (https://ship-it-afk.github.io/AWC) / AndroidFix (https://ship-it-afk.github.io/AWC/androidfix) or your local index.html (Win11Fix) / androidfix.html (AndroidFix).
+1. Launch the Tool: Open the hosted link for Win11Fix `https://ship-it-afk.github.io/AWC` / AndroidFix `https://ship-it-afk.github.io/AWC/androidfix` or your local `index.html` (Win11Fix) / `androidfix.html` (AndroidFix).
 2. Identify the Issue: Identify your Windows 11 machine issue (eg. BSOD, Easily Crash, etc) or Android issue (eg. WiFi missing, etc). 
 3. Type issue in natural language. 
 4. Follow the Steps: Use the interactive guide and apply fixes to your Windows 11 or Android system.
