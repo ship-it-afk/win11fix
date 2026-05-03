@@ -28,4 +28,25 @@ If you want to run Win11Fix & AndroidFix locally:
 We love help! Whether it's fixing a typo or adding a new troubleshooting guide for a Windows update bug or a Android update bug, feel free to fork the repo and submit a pull request.
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 license and MIT License.
+
+---
+
+## ⚠️ Disclaimer
+**Use this tool at your own risk.** Win11Fix is provided **"AS IS"** without any warranty of any kind. Modifying system settings can be risky. The author is not responsible for any:
+* System crashes or "hanging" laptops.
+* Loss of data.
+* Software malfunctions.
+
+**Recommendation:** Always create a **System Restore Point** before applying any fixes.
+
+---
+
+---
+
+## ⚖️ Legal Notice
+THE SOFTWARE IS PROVIDED **"AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
