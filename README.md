@@ -27,6 +27,9 @@ If you want to run Win11Fix & AndroidFix locally:
 ## 🤝 Contributing
 We love help! Whether it's fixing a typo or adding a new troubleshooting guide for a Windows update bug or a Android update bug, feel free to fork the repo and submit a pull request.
 
+## ❤️ Support
+I love help! Show your support by subscribing to my YouTube channel! Link: `https://www.youtube.com/@technologiesambient`
+
 ## 📄 License
 This project is licensed under the GPL-3.0 license and MIT License.
 
